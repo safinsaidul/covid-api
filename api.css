@@ -1,0 +1,8 @@
+body{
+
+    background-image: url(bg-corona.jpg);
+    background-color: #000000;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;  
+}
